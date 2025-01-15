@@ -1,5 +1,8 @@
-## Hellllllooooooooooo
-
+## Hi, Hello 🙃
+I am currently forth year Computer Science Student enrolled at
+the University of Guyana. I am enthusiastic about all things tech-
+savvy but have particular interest in the field of Web
+Development, Game Development and Computer Vision. 
 
 
 <!--
