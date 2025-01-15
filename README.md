@@ -4,6 +4,8 @@ the University of Guyana. I am enthusiastic about all things tech-
 savvy but have particular interest in the field of Web
 Development, Game Development and Computer Vision. 
 
+I use neovim btw 😎
+
 
 <!--
 **ShivMoh/ShivMoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
