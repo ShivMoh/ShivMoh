@@ -1,10 +1,8 @@
 ## Hi, Hello 🙃
-I am currently forth year Computer Science Student enrolled at
-the University of Guyana. I am enthusiastic about all things tech-
-savvy but have particular interest in the field of Web
-Development, Game Development and Computer Vision. 
+I am a software engineer interested who likes tinkering. 
+I am enthusiastic about all things tech-savvy but have particular interest in the field of Web development, machine learning and application development
 
-I use neovim btw 😎
+I use neovim btw 😎 
 
 
 <!--
